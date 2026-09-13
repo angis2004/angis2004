@@ -1,18 +1,14 @@
-<h1 align="center">¡Hola! Soy Angie 👋</h1> <h3 align="center">Diseñadora Web & Desarrolladora Frontend | Estudiante de Computación e Informática</h3> <p align="center"> 📍 Lima, Perú &nbsp;|&nbsp; 🌐 <a href="https://portafolio-angieticllacurimoscoso.netlify.app/">Portafolio</a> &nbsp;|&nbsp; 💼 <a href="https://www.linkedin.com/in/angie-ticllacuri-terra-go-a7a614238">LinkedIn</a> </p>
-🚀 Sobre mí
-Soy estudiante de la carrera de Computación e Informática, apasionada por el desarrollo web y el diseño de interfaces. Me gusta transformar ideas en experiencias digitales limpias, funcionales y accesibles, cuidando tanto el detalle visual como la calidad del código.
-
-🔭 Actualmente trabajando en proyectos de dashboards y aplicaciones web con foco en UI/UX.
-🌱 Aprendiendo constantemente sobre Java, buenas prácticas de frontend y frameworks modernos.
-💡 Me interesa el diseño responsive, la accesibilidad web y la experiencia de usuario.
-📫 Contáctame por LinkedIn si quieres conversar sobre proyectos o colaboraciones.
-🛠️ Stack y herramientas
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
-📌 Proyectos destacados
-Proyecto	Descripción
-🎨 bootstrap-admin-dashboard	Panel de administración con Bootstrap 5.3, modo claro y oscuro
-✨ CONFETI-JS	Efecto visual de confeti con Canvas y JavaScript puro
-☕ lpjava1130	Proyectos y ejercicios de lenguaje de programación Java
-🌐 Portafolio personal	Mi sitio web de presentación profesional
-📊 Estadísticas
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angis2004&show_icons=true&theme=default&hide_border=true" alt="Angie's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angis2004&layout=compact&hide_border=true" alt="Top Languages" /> </p>
+<h1 align="center">Hola 👋 soy Angie / angis2004 ✨</h1> <p align="center"> <a href="https://portafolio-angieticllacurimoscoso.netlify.app/"><img src="https://img.shields.io/badge/PORTAFOLIO-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/angie-ticllacuri-terra-go-a7a614238"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/angis2004"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p> <hr/>
+Sobre mí 😄
+🎓 Estudiante de Computación e Informática, enfocada en desarrollo web y diseño de interfaces.
+🎨 Diseñadora web creativa y detallista: transformo ideas en experiencias digitales limpias, funcionales y accesibles.
+🧩 Trabajo en proyectos de dashboards, aplicaciones web y efectos interactivos con foco en UI/UX.
+🌱 Aprendiendo constantemente Java, buenas prácticas de frontend y frameworks modernos.
+📍 Lima, Perú  ·  📫 Contáctame por LinkedIn para proyectos o colaboraciones.
+<hr/>
+Tecnologías conocidas 💻
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,git,github,figma,vscode" /> </p> <hr/>
+Algunos proyectos 🚀
+<table> <tr> <td align="center" width="25%"> <b>bootstrap-admin-dashboard</b><br/> Panel de administración con Bootstrap 5.3, modo claro y oscuro<br/><br/> <a href="https://github.com/angis2004/bootstrap-admin-dashboard"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>CONFETI-JS</b><br/> Efecto visual de confeti con Canvas y JavaScript puro<br/><br/> <a href="https://github.com/angis2004/CONFETI-JS"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>lpjava1130</b><br/> Proyectos y ejercicios de programación en Java<br/><br/> <a href="https://github.com/angis2004/lpjava1130"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>Portafolio personal</b><br/> Mi sitio web de presentación profesional<br/><br/> <a href="https://portafolio-angieticllacurimoscoso.netlify.app/"><img src="https://img.shields.io/badge/VER%20SITIO-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> </td> </tr> </table> <hr/>
+GitHub 🤖
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angis2004&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=angis2004&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angis2004&layout=compact&theme=radical&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=angis2004&theme=radical&no-frame=true&row=1&column=7" /> </p>
