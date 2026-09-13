@@ -1,13 +1,17 @@
-<h1 align="center">Hola 👋 soy Angie / angis2004 ✨</h1> <p align="center"> <a href="https://portafolio-angieticllacurimoscoso.netlify.app/"><img src="https://img.shields.io/badge/PORTAFOLIO-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/angie-ticllacuri-terra-go-a7a614238"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/angis2004"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p> <hr/>
-Sobre mí 😄
-🎓 Estudiante de Computación e Informática, enfocada en desarrollo web y diseño de interfaces.
-🎨 Diseñadora web creativa y detallista: transformo ideas en experiencias digitales limpias, funcionales y accesibles.
-🧩 Trabajo en proyectos de dashboards, aplicaciones web y efectos interactivos con foco en UI/UX.
-🌱 Aprendiendo constantemente Java, buenas prácticas de frontend y frameworks modernos.
-📍 Lima, Perú  ·  📫 Contáctame por LinkedIn para proyectos o colaboraciones.
+<h1 align="center">Hola 👋 soy Angie Ticllacuri / angis2004 ✨</h1> <h3 align="center">Desarrolladora Web · Frontend · UX/UI</h3> <p align="center"> <a href="https://portafolio-angieticllacurimoscoso.netlify.app/"><img src="https://img.shields.io/badge/PORTAFOLIO-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/angie-ticllacuri-terra-go-a7a614238"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angieticllacuri.design@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <hr/>
+Sobre mí 💻
+Desarrolladora Web y profesional en Desarrollo de Sistemas de Información, con experiencia en frontend, diseño UX/UI e implementación de soluciones web.
+
+🚀 Actualmente en Codeplex, desarrollando funcionalidades de negocio (Valorización y Facturación) para una plataforma SaaS con React, TypeScript y Tailwind CSS.
+🔌 Experiencia integrando APIs, trabajando con bases de datos SQL y CockroachDB.
+🎨 Background en diseño UX/UI: Figma, prototipado y landing pages (WordPress + Elementor).
+🌱 Ampliando conocimientos de backend con Python y Go.
+📍 Lima, Perú  ·  📫 Contáctame por LinkedIn o Gmail para proyectos o colaboraciones.
 <hr/>
-Tecnologías conocidas 💻
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,git,github,figma,vscode" /> </p> <hr/>
+Stack técnico 🛠️
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,angular,html,css,tailwind,cs,figma,git,github,vscode,py,go" /> </p> <hr/>
+Experiencia destacada 📌
+<table> <tr> <td width="33%" valign="top"> <b>Desarrolladora Web</b><br/> Codeplex · Remoto · Feb 2026 – Actualidad<br/><br/> Frontend de plataforma SaaS con React, TypeScript y Tailwind CSS; consumo de APIs y bases de datos SQL/CockroachDB. </td> <td width="33%" valign="top"> <b>Auxiliar de TI</b><br/> Golden Investment S.A. · Ago 2024 – Ene 2025<br/><br/> Desarrollo en Angular, optimización de módulos en Visual Studio MVC y diseño de interfaces en Figma. </td> <td width="33%" valign="top"> <b>Diseñadora Web</b><br/> Agencia DN · Mar – May 2025<br/><br/> Landing pages en WordPress + Elementor y prototipos UX/UI en Figma. </td> </tr> </table> <hr/>
 Algunos proyectos 🚀
 <table> <tr> <td align="center" width="25%"> <b>bootstrap-admin-dashboard</b><br/> Panel de administración con Bootstrap 5.3, modo claro y oscuro<br/><br/> <a href="https://github.com/angis2004/bootstrap-admin-dashboard"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>CONFETI-JS</b><br/> Efecto visual de confeti con Canvas y JavaScript puro<br/><br/> <a href="https://github.com/angis2004/CONFETI-JS"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>lpjava1130</b><br/> Proyectos y ejercicios de programación en Java<br/><br/> <a href="https://github.com/angis2004/lpjava1130"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a> </td> <td align="center" width="25%"> <b>Portafolio personal</b><br/> Mi sitio web de presentación profesional<br/><br/> <a href="https://portafolio-angieticllacurimoscoso.netlify.app/"><img src="https://img.shields.io/badge/VER%20SITIO-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> </td> </tr> </table> <hr/>
 GitHub 🤖
