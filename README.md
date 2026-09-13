@@ -2,7 +2,7 @@
 Sobre mí 💻
 Desarrolladora Web y profesional en Desarrollo de Sistemas de Información, con experiencia en frontend, diseño UX/UI e implementación de soluciones web.
 
-🚀 Actualmente en Codeplex, desarrollando funcionalidades de negocio (Valorización y Facturación) para una plataforma SaaS con React, TypeScript y Tailwind CSS.
+🚀 Actualmente en Codeplex, desarrollando funcionalidades de negocio para una plataforma SaaS con React, TypeScript y Tailwind CSS.
 🔌 Experiencia integrando APIs, trabajando con bases de datos SQL y CockroachDB.
 🎨 Background en diseño UX/UI: Figma, prototipado y landing pages (WordPress + Elementor).
 🌱 Ampliando conocimientos de backend con Python y Go.
